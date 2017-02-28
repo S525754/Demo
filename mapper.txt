@@ -1,3 +1,4 @@
+I have made change here
 f = open("d.txt","r")           # open file, read-only
 for line in f:  
     data = line.strip().split("    ") 
